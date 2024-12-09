@@ -22,7 +22,6 @@ Hey 👋, I'm ✨ Shamanthi Rajagopal ✨ and I'm a _Computer Engineering Studen
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="30" height="30">
 </p>
 
-![Shamanthi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamanthi-rajagopal&show_icons=true&theme=radical)
 
 <details>
   <summary>Other Interesting Facts?</summary>
