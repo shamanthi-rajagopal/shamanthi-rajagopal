@@ -1,5 +1,5 @@
 # About me
-🌟 Welcome to my GitHub profile! I am a Computer Engineering student @ University of Waterloo.
+🌟 Hey, I'm Shamanthi and welcome to my GitHub profile! I am a Computer Engineering student @ University of Waterloo.
 
 ## 🔭 Current Projects
 - 🌌 **[Mars Rover Project](https://github.com/shamanthi-rajagopal/Mars_Rover_Simulation)**: Simulating a rover on Martian terrain.
