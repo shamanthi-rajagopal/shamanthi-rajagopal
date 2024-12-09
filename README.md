@@ -29,7 +29,7 @@ Hey 👋, I'm ✨ Shamanthi Rajagopal ✨ and I'm a _Computer Engineering _Stude
   <summary>Other Interesting Facts?</summary>
   🪐 Space Enthusiast<br>
   🏀 Basketball Coach & Referee<br>
-  🎨 Aspiring Admirer & Music Lover 🎧
+  🎨 Art Admirer & Music Lover 🎧
 
 </details>
 
