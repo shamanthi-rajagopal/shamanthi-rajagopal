@@ -1,12 +1,12 @@
-## 🌟 About me!
+## About Me 😌
 Hey, I'm ✨ Shamanthi Rajagopal ✨ and I'm a **_Computer Engineering student @ University of Waterloo_.**
 
 
-## 💻 🔭 Current Projects
+## Current Projects 💻 
 - I am currently working on a Mars Rover Simulation project. Check it out here: **[Mars Rover Project](https://github.com/shamanthi-rajagopal/Mars_Rover_Simulation)** 🌌.
 
 
-## 📊 Languages & Stats
+## Languages & Stats
 <p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50" height="50">
@@ -20,6 +20,14 @@ Hey, I'm ✨ Shamanthi Rajagopal ✨ and I'm a **_Computer Engineering student @
 ![Shamanthi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamanthi-rajagopal&show_icons=true&theme=radical)
 
 
-## 📬 Contact Me
-Reach me at [LinkedIn](https://www.linkedin.com/in/shamanthi-rajagopal) or [Email](mailto:s2rajago@uwaterloo.ca)!
+## Contact Me 📬 
+<p>
+    <a href="https://www.linkedin.com/in/shamanthi-rajagopal" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="30" height="30">
+    </a>
+    <a href="mailto:s2rajago@uwaterloo.ca">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_icon.svg" alt="Email" width="30" height="30">
+    </a>
+</p>
+
 
