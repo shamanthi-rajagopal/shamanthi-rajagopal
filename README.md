@@ -3,7 +3,7 @@ Hey 👋, I'm ✨ Shamanthi Rajagopal ✨ and I'm a _Computer Engineering Studen
 
 ## Interested In & Currently Learning About:
 🚀 Space Exploration & Aerospace Technology<br>
-🤖 Artificial Intelligence and Machine Learning<br>
+🤖 Artificial Intelligence & Machine Learning<br>
 ⚙️ Robotics & Embedded Systems
 
 
