@@ -3,7 +3,7 @@ Hey, I'm ✨ Shamanthi ✨! I am a **_Computer Engineering student @ University 
 
 
 ## 💻 🔭 Current Projects
-- I am currently working on a Mars Rover Simulation project. 🌌 **[Mars Rover Project](https://github.com/shamanthi-rajagopal/Mars_Rover_Simulation)**.
+- I am currently working on a Mars Rover Simulation project. Check it out here: **[Mars Rover Project](https://github.com/shamanthi-rajagopal/Mars_Rover_Simulation)** 🌌.
 
 
 ## 📊 Languages & Stats
