@@ -3,9 +3,9 @@ Hey 👋, I'm ✨ Shamanthi Rajagopal ✨ and I'm a computer engineering student
 
 <details>
   <summary>Interested In:</summary>
-  🚀 Space Exploration & Technology
-  🤖 Artificial Intelligence and Machine Learning
-  ⚙️ Robotics & Embedded Systems
+  🚀 Space Exploration & Technology<br>
+  🤖 Artificial Intelligence and Machine Learning<br>
+  ⚙️ Robotics & Embedded Systems<br>
 </details>
 
 ## Current Projects: 
