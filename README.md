@@ -6,4 +6,4 @@
 
 Contact me if you have any questions/concerns/advice...have a great day!
 
-![Shamanthi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShamanthiRajagopal&show_icons=true&theme=radical)
+![Shamanthi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamanthi-rajagopal&show_icons=true&theme=radical)
