@@ -1,5 +1,5 @@
 # 🙂‍↔️ About me!
-🌟 Hey, I'm Shamanthi and welcome to my GitHub profile! I am a **_Computer Engineering student @ University of Waterloo_.**
+🌟 Hey, I'm Shamanthi! I am a **_Computer Engineering student @ University of Waterloo_.**
 
 ## 📊 Languages & Stats
 
