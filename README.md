@@ -1,12 +1,18 @@
-## About Me 😌
-Hey, I'm ✨ Shamanthi Rajagopal ✨ and I'm a **_Computer Engineering student @ University of Waterloo_.**
+## 😌 About Me
+Hey 👋, I'm ✨ Shamanthi Rajagopal ✨ and I'm a **_Computer Engineering student @ University of Waterloo_.**
 
+<details>
+  <summary>More About Me</summary>
+  🚀 Space enthusiast<br>
+  🏀 Basketball referee<br>
+  📚 Studying Computer Engineering
+</details>
 
-## Current Projects 💻 
+## 💻 Current Projects 
 - I am currently working on a Mars Rover Simulation project. Check it out here: **[Mars Rover Project](https://github.com/shamanthi-rajagopal/Mars_Rover_Simulation)** 🌌.
 
 
-## Languages & Stats ⌨️
+## Languages
 <p>
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="50" height="50">
