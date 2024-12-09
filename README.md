@@ -1,6 +1,5 @@
 ## About Me:
-Hey 👋, I'm ✨ Shamanthi Rajagopal ✨ and I'm a _Computer Engineering Student @ the University of Waterloo_. I love learning new concepts and building projects with a cool, creative, and personalized flare to them ☄️! 
-<br><br>
+Hey 👋, I'm ✨ Shamanthi Rajagopal ✨ and I'm a _Computer Engineering Student @ the University of Waterloo_. I love learning new concepts and building projects with a cool, creative, and personalized flare to them ☄️! <br>
 <br>Learn more about me @ [shamanthi-rajagopal.com](https://shamanthi-rajagopal.com/).<br>
 
 ## Interested In & Currently Learning About:
