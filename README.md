@@ -2,7 +2,7 @@
 Hey 👋, I'm ✨ Shamanthi Rajagopal ✨ and I'm a _Computer Engineering Student_ @ University of Waterloo. I love learning new concepts and building projects with a cool, creative, and personalized flare to them ☄️! Learn more about me @ [My Website](https://shamanthi-rajagopal.com/).
 
 ## Interested In & Currently Learning About:
-🚀 Space Exploration & Technology<br>
+🚀 Space Exploration & Aerospace Technology<br>
 🤖 Artificial Intelligence and Machine Learning<br>
 ⚙️ Robotics & Embedded Systems
 
