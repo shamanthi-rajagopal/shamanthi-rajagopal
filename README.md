@@ -24,7 +24,12 @@ _(Learning by creating projects, studying online certification courses, taking a
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="30" height="30">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="30" height="30">
 
-![Shamanthi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamanthi-rajagopal&show_icons=true&theme=radical)
+<a href="https://github.com/shamanthi-rajagopal/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shamanthi-rajagopal" />
+</a>
+<a href="https://github.com/shamanthi-rajagopal/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamanthi-rajagopal&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 
 <details>
