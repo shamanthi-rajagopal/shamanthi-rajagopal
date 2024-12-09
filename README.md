@@ -1,11 +1,11 @@
 ## About Me:
-Hey 👋, I'm ✨ Shamanthi Rajagopal ✨ and I'm a **_Computer Engineering student @ University of Waterloo_.**
+Hey 👋, I'm ✨ Shamanthi Rajagopal ✨ and I'm a computer engineering student @ University of Waterloo.
 
 <details>
-  <summary>More About Me</summary>
-  🚀 Space enthusiast<br>
-  🏀 Basketball referee<br>
-  📚 Studying Computer Engineering
+  <summary>Interested In:</summary>
+  🚀 Space Exploration & Technology
+  🤖 Artificial Intelligence and Machine Learning
+  ⚙️ Robotics & Embedded Systems
 </details>
 
 ## Current Projects: 
@@ -25,7 +25,13 @@ Hey 👋, I'm ✨ Shamanthi Rajagopal ✨ and I'm a **_Computer Engineering stud
 
 ![Shamanthi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamanthi-rajagopal&show_icons=true&theme=radical)
 
+<details>
+  <summary>Other Interesting Facts?</summary>
+  🚀 Space Enthusiast<br>
+  🏀 Basketball Coach & Referee<br>
+  📚 Studying Computer Engineering
+</details>
 
-📬 Reach me @ [LinkedIn](https://www.linkedin.com/in/shamanthi-rajagopal) or [Email](mailto:s2rajago@uwaterloo.ca)!
+📬 Reach me at [LinkedIn](https://www.linkedin.com/in/shamanthi-rajagopal) or [Email](mailto:s2rajago@uwaterloo.ca)!
 
 
