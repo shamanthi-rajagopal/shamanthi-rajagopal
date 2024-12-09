@@ -36,15 +36,7 @@ _(Learning by creating projects, studying online certification courses, taking a
 </details>
 
 ## Reach me at:
-<div>
-  <a href="https://www.linkedin.com/in/shamanthi-rajagopal" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:s2rajago@uwaterloo.ca" style="text-decoration:none; color:grey; font-weight: bold;">
-    s2rajago@uwaterloo.ca
-  </a>
-</div>
+[LinkedIn](https://www.linkedin.com/in/shamanthi-rajagopal) or [Email](mailto:s2rajago@uwaterloo.ca)
 
 
 
