@@ -8,7 +8,7 @@ Hey 👋, I'm ✨ Shamanthi Rajagopal ✨ and I'm a _Computer Engineering Studen
 
 
 ## Current Projects: 
-- I am currently working on a Mars Rover Simulation project. Check it out here: **[Mars Rover Project](https://github.com/shamanthi-rajagopal/Mars_Rover_Simulation)** 🌌.
+🌌 I am currently working on a Mars Rover Simulation project. Check it out here: **[Mars Rover Project](https://github.com/shamanthi-rajagopal/Mars_Rover_Simulation)**.
 
 
 ## Languages:
