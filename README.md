@@ -1,5 +1,5 @@
 ## About Me:
-Hey 👋, I'm ✨ Shamanthi Rajagopal ✨ and I'm a computer engineering student @ University of Waterloo.
+Hey 👋, I'm ✨ Shamanthi Rajagopal ✨ and I'm a _Computer Engineering _Student @ University of Waterloo.
 
 <details>
   <summary>Interested In:</summary>
