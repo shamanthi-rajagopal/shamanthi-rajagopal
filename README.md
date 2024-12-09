@@ -4,7 +4,7 @@ Hey 👋, I'm ✨ Shamanthi ✨ and I'm a _Computer Engineering Student @ the Un
 ## Interested In & Currently Learning About:
 🚀 Space Exploration & Aerospace Technology<br>
 🤖 Artificial Intelligence & Machine Learning<br>
-⚙️ Robotics & Embedded Systems<br>
+⚙️ Robotics & Embedded Systems<br><br>
 _(Learning by creating related personal/hackathon projects, studying online certification courses, taking an AI/ML specialization @ UWaterloo)_
 
 ## Current Projects: 
