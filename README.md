@@ -5,7 +5,7 @@ Hey 👋, I'm ✨ Shamanthi ✨ and I'm a _Computer Engineering Student @ the Un
 🚀 Space Exploration & Aerospace Technology<br>
 🤖 Artificial Intelligence & Machine Learning<br>
 ⚙️ Robotics & Embedded Systems<br><br>
-_(Learning by creating related personal/hackathon projects, studying online certification courses, taking an AI/ML specialization @ UWaterloo)_
+_(Learning by creating personal/hackathon projects, studying online certification courses, taking an AI/ML specialization @ UWaterloo)_
 
 ## Current Projects: 
 🌌 I am currently working on a Mars Rover Simulation project. Check it out here: **[Mars Rover Project](https://github.com/shamanthi-rajagopal/Mars_Rover_Simulation)**.
