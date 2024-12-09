@@ -22,7 +22,12 @@ _(Learning by creating projects, studying online certification courses, taking a
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="50" height="30">
 </p>
 
-![Shamanthi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamanthi-rajagopal&show_icons=true&theme=radical)
+<div align="center">
+![Shamanthi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamanthi-rajagopal&show_icons=true&theme=radical&card_width=400)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shamanthi-rajagopal&layout=compact&theme=radical&card_width=400)
+</div>
+
 
 <details>
   <summary>Other Interesting Facts?</summary>
