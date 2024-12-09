@@ -20,6 +20,6 @@ Hey, I'm ✨ Shamanthi Rajagopal ✨ and I'm a **_Computer Engineering student @
 ![Shamanthi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamanthi-rajagopal&show_icons=true&theme=radical)
 
 
-📬 Reach me at [LinkedIn](https://www.linkedin.com/in/shamanthi-rajagopal) or [Email](mailto:s2rajago@uwaterloo.ca)!
+📬 Reach me @ [LinkedIn](https://www.linkedin.com/in/shamanthi-rajagopal) or [Email](mailto:s2rajago@uwaterloo.ca)!
 
 
