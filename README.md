@@ -1,12 +1,11 @@
 ## About Me:
 Hey 👋, I'm ✨ Shamanthi Rajagopal ✨ and I'm a _Computer Engineering _Student @ University of Waterloo. I love learning new concepts and building projects with a cool, creative, and personalized flare to them ☄️! Learn more about me @ [My Website](https://shamanthi-rajagopal.com/)!
 
-<details>
-  <summary>Interested In & Currently Learning About:</summary>
-  🚀 Space Exploration & Technology<br>
-  🤖 Artificial Intelligence and Machine Learning<br>
-  ⚙️ Robotics & Embedded Systems
-</details>
+Interested In & Currently Learning About:
+- 🚀 Space Exploration & Technology<br>
+- 🤖 Artificial Intelligence and Machine Learning<br>
+- ⚙️ Robotics & Embedded Systems
+
 
 ## Current Projects: 
 - I am currently working on a Mars Rover Simulation project. Check it out here: **[Mars Rover Project](https://github.com/shamanthi-rajagopal/Mars_Rover_Simulation)** 🌌.
