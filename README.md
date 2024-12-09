@@ -25,7 +25,7 @@ _(Learning by creating projects, studying online certification courses, taking a
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="30" height="30"> <br><br>
 
 [![Shamanthi's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=shamanthi-rajagopal&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Shamanthi's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=shamanthi-rajagopa&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Shamanthi's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=shamanthi-rajagopal&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
 <details>
