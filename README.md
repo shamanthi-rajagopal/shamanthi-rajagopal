@@ -1,5 +1,7 @@
-# 🌟 About me!
-Hey, I'm ✨ Shamanthi ✨! I am a **_Computer Engineering student @ University of Waterloo_.**
+# Hey, I'm ✨ Shamanthi Rajagopal ✨
+
+## 🌟 About me!
+I am a **_Computer Engineering student @ University of Waterloo_.**
 
 
 ## 💻 🔭 Current Projects
@@ -7,6 +9,7 @@ Hey, I'm ✨ Shamanthi ✨! I am a **_Computer Engineering student @ University 
 
 
 ## 📊 Languages & Stats
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Shamanthi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamanthi-rajagopal&show_icons=true&theme=radical)
 
 
