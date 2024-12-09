@@ -7,3 +7,11 @@
 Contact me if you have any questions/concerns/advice...have a great day!
 
 ![Shamanthi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamanthi-rajagopal&show_icons=true&theme=radical)
+
+<details>
+  <summary>More About Me</summary>
+  🚀 Space enthusiast<br>
+  🏀 Basketball referee<br>
+  📚 Studying Computer Engineering
+</details>
+
