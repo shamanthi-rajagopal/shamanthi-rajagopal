@@ -1,4 +1,4 @@
-🌟 About me!
+# 🌟 About me!
 Hey, I'm ✨ Shamanthi ✨! I am a **_Computer Engineering student @ University of Waterloo_.**
 
 ## 📊 Languages & Stats
