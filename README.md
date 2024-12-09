@@ -19,7 +19,7 @@ _(Learning by creating projects, studying online certification courses, taking a
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="30" height="30">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ROS" width="50" height="30">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="50" height="30">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="30" height="30">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="50" height="30">
 </p>
 
 ![Shamanthi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamanthi-rajagopal&show_icons=true&theme=radical)
